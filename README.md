@@ -12,3 +12,6 @@ In personalized, an user can create his/her playlist and data is mined according
 	content-based filtering and popularity.
  Dataset used is 'kaggle million song dataset'.
  Some features are added afterward in dataset.
+How to run: 
+	All set, just open the files in jupyter and update the location of dataset in file.
+	and run it.
