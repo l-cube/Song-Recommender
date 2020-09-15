@@ -1,0 +1,15 @@
+Unpersonalized:
+
+Output1: Image contains the information of dataset used
+Output2: Image shows top 10 songs which are played most by the users with their count and taste hence they are the most popular songs
+Output3-8: Images shows top 10 songs for each taste (1-6) and their count
+Output9: Images shows top 10 which are liked by the most users
+Output10: Taste Distribution of all the songs 
+
+Personalized: images may vary due to user's input
+
+Output11: Image shows the playlist songs of a user and his/her taste distribution of songs
+Output12: Image shows number of users among all users which listening your songs
+Output13: Table shows songs recommended after collaborative filtering
+Output14: Table shows recommended songs after content based filtering
+Output15: Image shows the barchart of output14
